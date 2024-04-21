@@ -1,7 +1,6 @@
 package FirstSeleniumScript;
 
 import java.time.Duration;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.JavascriptExecutor;
